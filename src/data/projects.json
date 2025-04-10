@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Sistema de gestión de citas médicas",
+    "description": "Aplicación web para un hospital, implementa un sistema de gestión de citas médicas, autenticación de usuarios y manejo de errores",
+    "image": "https://i.ibb.co/35V5xnW3/3.png",
+    "liveUrl": "https://task-manager-app.vercel.app",
+    "githubUrl": "https://github.com/janedoe/task-manager",
+    "tags": ["React", "Bootstrap", "Helmet"]
+  },
+  {
+    "id": 2,
+    "name": "PWA Hospital",
+    "description": "Aplicación web progresiva para un hospital, implementa un sistema de gestión de citas médicas y doctores, con almacenamiento offline mediante IndexedDB.",
+    "image": "https://i.ibb.co/Gvg32v0f/2.png",
+    "liveUrl": "https://github.com/maraloaven/evaluacion-m6-ej-3",
+    "githubUrl": "https://github.com/maraloaven/evaluacion-m6-ej-3",
+    "tags": ["JavaScript", "React", "Vite"]
+  },
+  {
+    "id": 3,
+    "name": "Down2Earth",
+    "description": "Sistema de creación de viviendas.",
+    "image": "https://i.ibb.co/XZ1NGLWX/1.png",
+    "liveUrl": "https://apptestdown2earth.github.io/down2earth/",
+    "githubUrl": "https://apptestdown2earth.github.io/down2earth/",
+    "tags": ["Python", "GDScript"]
+  }
+]
