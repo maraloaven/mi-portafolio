@@ -13,7 +13,7 @@
     "name": "PWA Hospital",
     "description": "Aplicación web progresiva para un hospital, implementa un sistema de gestión de citas médicas y doctores, con almacenamiento offline mediante IndexedDB.",
     "image": "https://i.ibb.co/Gvg32v0f/2.png",
-    "liveUrl": "https://github.com/maraloaven/evaluacion-m6-ej-3",
+    "liveUrl": "https://incandescent-fenglisu-7a2fdd.netlify.app/",
     "githubUrl": "https://github.com/maraloaven/evaluacion-m6-ej-3",
     "tags": ["JavaScript", "React", "Vite"]
   },
