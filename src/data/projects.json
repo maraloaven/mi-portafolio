@@ -4,8 +4,8 @@
     "name": "Sistema de gestión de citas médicas",
     "description": "Aplicación web para un hospital, implementa un sistema de gestión de citas médicas, autenticación de usuarios y manejo de errores",
     "image": "https://i.ibb.co/35V5xnW3/3.png",
-    "liveUrl": "https://task-manager-app.vercel.app",
-    "githubUrl": "https://github.com/janedoe/task-manager",
+    "liveUrl": "https://warm-nougat-65e878.netlify.app/",
+    "githubUrl": "https://github.com/maraloaven/evaluacion-m5-ej-4",
     "tags": ["React", "Bootstrap", "Helmet"]
   },
   {
