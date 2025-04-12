@@ -26,4 +26,14 @@
     "githubUrl": "https://apptestdown2earth.github.io/down2earth/",
     "tags": ["Python", "GDScript"]
   }
+  ,
+  {
+    "id": 4,
+    "name": "Casa Semilla",
+    "description": "Vivienda Impresa en 3D con trayectorias programadas en Python.",
+    "image": "https://images.adsttc.com/media/images/67a1/1811/088f/c414/b8e4/9811/newsletter/casa-semilla-universidad-del-bio-bio_4.jpg?1738610761",
+    "liveUrl": "https://www.archdaily.cl/cl/1026461/casa-semilla-universidad-del-bio-bio",
+    "githubUrl": "https://www.archdaily.cl/cl/1026461/casa-semilla-universidad-del-bio-bio",
+    "tags": ["Python", "GCode", "RhinoCommon"]
+  }
 ]
